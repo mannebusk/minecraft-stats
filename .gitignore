@@ -2,5 +2,6 @@ src/node_modules/
 src/bower_components/
 src/.npm-debug.log
 src/.sass-cache/
+src/dev/
 .tmp/
 
